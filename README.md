@@ -8,3 +8,6 @@
 chenxuanrong/chenxuanrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+@2025
+- I moved across to ML/AI space that will focus on new AVM model, drive ML features in product and GenAI product
