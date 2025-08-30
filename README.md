@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chenxuanrong
-- 👀 I’m interested in data 
+- 👀 I’m interested in data
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on data product development
+- 🌍 I love working with geospatial data and map (Leafletjs, Kepler.gl, Mapbox)
 - 📫 How to reach me slack @chenxuan.rong
 
 <!---
